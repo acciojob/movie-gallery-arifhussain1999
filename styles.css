@@ -7,4 +7,20 @@ img{
 col-sm-1>img{
 	display:flex;
 	align-items:center;
+	justify-content:center;
+}
+col-sm-2>img{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+col-sm-4>img{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+col-sm-12>img{
+	display:flex;
+	align-items:center;
+	justify-content:center;
 }
