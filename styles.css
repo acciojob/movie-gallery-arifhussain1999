@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+img{
+	height:100px;
+	width:100px;
+}
+col-sm-1>img{
+	display:flex;
+	align-items:center;
+}
