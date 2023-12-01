@@ -1,25 +1,25 @@
 
 /* Your CSS Code here. */
 img{
-	height:100px;
+	height:100px !important;
 	width:100px;
 }
-col-sm-1>img{
+col-sm-1{
 	display:flex;
 	align-items:center;
 	justify-content:center;
 }
-col-sm-2>img{
+col-sm-2{
 	display:flex;
 	align-items:center;
 	justify-content:center;
 }
-col-sm-4>img{
+col-sm-4{
 	display:flex;
 	align-items:center;
 	justify-content:center;
 }
-col-sm-12>img{
+col-sm-12{
 	display:flex;
 	align-items:center;
 	justify-content:center;
